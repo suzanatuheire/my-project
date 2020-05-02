@@ -5,11 +5,11 @@ body{
  .Home{ 
   background-color:lightblue;
   }
-  .contact{ 
+  .Project{ 
 background-color:grey;
    }
-  .Project{ 
-    background-color:magenta;
+  .Contact{ 
+    background-color:blue;
     }
    .About{ 
       background-color:purple;
@@ -22,9 +22,20 @@ background-color:grey;
   overflow: hidden;
   background-color: #333;
 }
+header{ 
+  font-size:30px; 
+ }
+ h1{ 
+  font-size:50px;
+  }
+  p1{ 
+    font-size:30;
+   }
+
+
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
